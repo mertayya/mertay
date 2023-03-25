@@ -14,7 +14,7 @@
 
 
 [![](https://img.shields.io/twitter/follow/mertayya?style=social)](https://www.twitter.com/mertayya)
-[![](https://img.shields.io/github/followers/meertayya?style=social)](https://www.github.com/mertayya)
+[![](https://img.shields.io/github/followers/mertayya?style=social)](https://www.github.com/mertayya)
 
 
 [![](./assets/python-for-data-science-and-ai.png)](https://www.youracclaim.com/badges/8b5a6b14-3ca4-4717-b683-fa156513cba3/public_url)
