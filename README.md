@@ -22,5 +22,5 @@
 [![](./assets/data-visualization-with-python.png)](https://www.youracclaim.com/badges/0bc55bef-e160-4e10-96fa-fd94fc851fdd/public_url)
 
 
-Blogger at [Evreninatlasi](https://mertayyy.wordpress.com/)
+Blogger at [Wordpress](https://mertayyy.wordpress.com/)
  
